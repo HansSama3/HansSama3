@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on a social media ...
+- ⚡ Fun fact:I'm 17yo, and I like videogames and watch streams ...
 <!--
 **HansSama3/HansSama3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
