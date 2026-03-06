@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a social media ...
-- ⚡ About me:I'm 17yo, I like videogames and watch streams ...
+- 🔭 I’m currently working on: A social media
+- ⚡ About me: I'm 17yo and I like videogames 
 <!--
 **HansSama3/HansSama3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
